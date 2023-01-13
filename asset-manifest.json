@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/secret-word/static/css/main.41d14b27.css",
+    "main.js": "/secret-word/static/js/main.e1de971d.js",
+    "index.html": "/secret-word/index.html",
+    "main.41d14b27.css.map": "/secret-word/static/css/main.41d14b27.css.map",
+    "main.e1de971d.js.map": "/secret-word/static/js/main.e1de971d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41d14b27.css",
+    "static/js/main.e1de971d.js"
+  ]
+}
